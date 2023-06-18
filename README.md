@@ -1,4 +1,4 @@
-nEXtHIBITION
+NextHiBiTioN
 
 Ürün Açıklaması
 Fotoğraf Paylaşım Uygulaması, kullanıcıların fotoğraflarını sosyal medya platformlarıyla paylaşmalarına olanak sağlayan bir mobil uygulamadır. Bu uygulama, fotoğraf tutkunları için yaratıcı ve interaktif bir deneyim sunmaktadır. Kullanıcılar burada paylaşacağı fotoğraflar ile birbirlerinin beğenisini toplamaya çalışacaktır. Aylık en çok beğeniyi alan fotoğraflar uygulamanın en üst kısmında konumlanacaktır. 
