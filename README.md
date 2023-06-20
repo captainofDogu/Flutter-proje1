@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-06-20 at 11 45 59](https://github.com/captainofDogu/Flutter-proje1/assets/109286255/c982680c-4395-4b6a-bbd5-021581495aa8)Takım İsmi(F-58)
+Takım İsmi(F-58)
 Catastrophic
 
 Ürün İle İlgili Bilgiler
@@ -46,21 +46,32 @@ Hedef Kitle
 * Geri dönüşüm atık toplayıcıları
 
 Juriye Not
-İlan formu veritabanına başarılı şekilde veri göndermesine rağmen, tecrübe yetersizliği ve zaman eksikliği sebebiyle ilanlar listesi ve teklif formları veritabanıyla ilişkilendirilememiştir.
+Takım senkronizasyonu ve harmonizasyonundan kaynaklı yaşanan sorunlardan dolayı 1. sprintte uygulamanın hangi temasının nasıl olacağı ve sıra rollerin atanıp bununla ilgili bundan sonraki sürecin planlanması üzerinde duruldu.
 
 
 Sprint 1
-* Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
-* Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-* Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
-* Sprint board update: Sprint board screenshotları: 
+Sprint içinde tamamlanması tahmin edilen puan: 130Puan
+
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 130 ile başlaması gerektiğine karar verildi.
+
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+
+Sprint Board Update:
+![WhatsApp Image 2023-06-20 at 11 45 59](https://github.com/captainofDogu/Flutter-proje1/assets/109286255/0298b4bc-a7f8-4446-9de5-db298154daee)
+
 ￼
 * Ürün Durumu: Ekran görüntüleri: 
 ￼
-*  
-￼
-*  
-￼
+  *  ![WhatsApp Image 2023-06-20 at 11 58 34](https://github.com/captainofDogu/Flutter-proje1/assets/109286255/0fc7585b-779f-434c-8580-1fe700b3a43a)
+  
+  * ￼![WhatsApp Image 2023-06-20 at 11 58 42](https://github.com/captainofDogu/Flutter-proje1/assets/109286255/7d77f48b-53f7-4cba-b217-01878a48551a)
+  
+  *  ![WhatsApp Image 2023-06-20 at 11 58 55](https://github.com/captainofDogu/Flutter-proje1/assets/109286255/7fc5a3b1-75c5-4db3-bdf9-2ad22a831d83)
+
+  * ![WhatsApp Image 2023-06-20 at 10 00 17](https://github.com/captainofDogu/Flutter-proje1/assets/109286255/e1bad702-813a-4551-89ed-44a5391a0b1f)
+
+  * ![WhatsApp Image 2023-06-20 at 10 00 24](https://github.com/captainofDogu/Flutter-proje1/assets/109286255/0b31d2b7-fd7d-40e4-9ce6-bba7c8f1d3dc)
+
 * Sprint Review: Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
 * Sprint Retrospective:
     * Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
