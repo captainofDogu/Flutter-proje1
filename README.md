@@ -110,23 +110,45 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats]
+- **Daily Scrum**: Daily Scrum toplantıları Whatsapp ve Google Meet üzerinden yapılmaya devam edilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats]
+
+- **Sprint Notları** :
+Ayrıntılar miro'dadır.
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde 2. sprint'in en azından 120 puan şeklinde olacağı kararlaştırılmıştır.
+
 
 - **Sprint board update**: Sprint board screenshotları: 
 
+<img width="1116" alt="Ekran Resmi 2023-07-03 23 11 44" src="https://github.com/captainofDogu/Flutter-proje1/assets/109286255/01db039b-3865-4e48-ab87-c281afb75cf7">
 
+- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp ve Google Meet üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+
+[daily scrum (1).docx](https://github.com/captainofDogu/Flutter-proje1/files/11941240/daily.scrum.1.docx)
 
 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
+<img width="1470" alt="Ekran Resmi 2023-07-03 23 56 35" src="https://github.com/captainofDogu/Flutter-proje1/assets/109286255/1d01466d-ad2f-40a4-bcd6-788b3ecdb748">
+
+<img width="1470" alt="Ekran Resmi 2023-07-04 00 01 45" src="https://github.com/captainofDogu/Flutter-proje1/assets/109286255/fda29dd8-968a-4a2f-a211-090294621d51">
+
+<img width="1470" alt="1" src="https://github.com/captainofDogu/Flutter-proje1/assets/109286255/ee53b585-299d-4c36-acdc-2a8424c505f1">
+
+<img width="1470" alt="3" src="https://github.com/captainofDogu/Flutter-proje1/assets/109286255/c6a86350-1c52-4b1b-9c04-8e51c4d39cc2">
+
+
+
+https://github.com/captainofDogu/Flutter-proje1/assets/109286255/7a92298a-f6e8-4044-81f6-0d18a594d018
+
 
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. 
-Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
+Sprint Review: Alınan kararlar: Uygulamada ihityaca binaen kullanılacak kütüphaneler araştırılıp uygulamaya eklenmiştir, firebase servislerine bağlantılar yapılmış ve alınan hatalar değerlendirilmiştir. Sprint Review katılımcıları: Barış Baysal, Taha Alp Koçyiğit, Sümeyra Karsavran,
 
 - **Sprint Retrospective:**
+Flutter dosyalarını kaydederken dikkatli olunması gerektiğinden bahsedilmiştir. Github commit işleminin daha ayrıntılı öğrenilmesi söz konusu olmuştur. Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine ve toplantılara tüm takım üyelerinin katılması için uygun vaktin kararlaştırılmasına vurgu yapılmıştır.
 
   - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 
